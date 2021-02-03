@@ -15,4 +15,10 @@ then run MainWindowMain file inside this folder but before this click on edit co
 
 add in VM options -> --module-path "C:\javafx-sdk-15.0.1\lib" --add-modules javafx.controls,javafx.media,javafx.fxml
 
+Some snipts of game - 
+
+
+![homepage](https://user-images.githubusercontent.com/63155782/106777375-f3560700-666a-11eb-9eba-bf0a23ad6333.png)
+
+
 Thanks :-)
